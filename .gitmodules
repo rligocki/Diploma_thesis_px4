@@ -1,0 +1,21 @@
+[submodule "NIST-statistical-test"]
+	path = NIST-statistical-test
+	url = https://github.com/rligocki/NIST-statistical-test
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = https://github.com/rligocki/qgroundcontrol
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/rligocki/Firmware
+[submodule "Certificate_generator"]
+	path = Certificate_generator
+	url = https://github.com/rligocki/Certificate_generator
+[submodule "pymavlink"]
+	path = pymavlink
+	url = https://github.com/rligocki/pymavlink
+[submodule "mavlink"]
+	path = mavlink
+	url = https://github.com/rligocki/mavlink
+[submodule "px4_example"]
+	path = px4_example
+	url = https://github.com/rligocki/px4_example
