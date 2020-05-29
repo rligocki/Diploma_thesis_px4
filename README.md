@@ -1,6 +1,6 @@
 # Diploma_thesis_px4
 
-This repository contains all source codes, that has been used during my diploma thesis.
+This repository contains all source codes, that has been used during my diploma thesis. If you have any questions or problems with compilation, feel free to send me an email on xligoc02@vutbr.cz. 
 
 ## Clone and download all submodules
 
